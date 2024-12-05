@@ -1,0 +1,11 @@
+?- diagnostico.
+Bem-vindo ao Sistema de Análise de Problemas de Veículos!
+O veículo apresenta motor_nao_liga? (sim/nao): sim
+O veículo apresenta luzes_fracas? (sim/nao): sim
+O veículo apresenta barulho_ao_frear? (sim/nao): nao
+O veículo apresenta pedal_freio_macio? (sim/nao): nao
+O veículo apresenta vazamento_oleo? (sim/nao): nao
+
+Problema identificado: bateria_fraca
+
+Desenvolvido por: [Kayke de Souza]
